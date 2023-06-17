@@ -23,3 +23,12 @@ footer{
     font-style: italic;
     color: white;
 }
+
+#res{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    object-fit: cover;
+}
